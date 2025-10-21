@@ -1,4 +1,4 @@
-# React useWebSocket
+# Mern Crud WebSocket
 
 [Live Demo](https://robtaussig.com/socket/)
 Note: `wss://demos.kaazing.com/echo` has been down lately, so the demo will fail to connect when using that as the endpoint. On the plus side, this demonstrates the behavior of a connection failure.
